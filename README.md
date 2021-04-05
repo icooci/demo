@@ -1,7 +1,7 @@
 # Demo project for Spring Boot
 ### Web Demo
 
-git clone git@example.com:icooci/demo.git
+git clone https://github.com/icooci/demo.git
 
 cd demo
 
