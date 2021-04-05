@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Hello {
     @RequestMapping("/")
     public String key(){
-        return "Hello icooci Spring Boot ~ zzzzzzzzzzzz !";
+        return "Hello icooci Spring Boot ~ hhhhhhhhhhhh !";
     }
 }
