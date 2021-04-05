@@ -1,5 +1,5 @@
 # Demo project for Spring Boot
-### Web Demo
+### spring-boot-starter-web
 
 git clone https://github.com/icooci/demo.git
 
